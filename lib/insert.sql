@@ -1,1 +1,20 @@
-INSERT INTO users (name, age) VALUES 
+INSERT INTO users (name, age) VALUES ("Mary", "24"); 
+INSERT INTO users (name, age) VALUES ("Bob", "25"); 
+INSERT INTO users (name, age) VALUES ("Harry", "24"); 
+INSERT INTO users (name, age) VALUES ("Sarah", "27"); 
+INSERT INTO users (name, age) VALUES ("Molly", "28"); 
+INSERT INTO users (name, age) VALUES ("Jim", "24"); 
+INSERT INTO users (name, age) VALUES ("Will", "24"); 
+INSERT INTO users (name, age) VALUES ("Carla", "24"); 
+INSERT INTO users (name, age) VALUES ("Erin", "24"); 
+INSERT INTO users (name, age) VALUES ("Mark", "24"); 
+INSERT INTO users (name, age) VALUES ("Chris", "24"); 
+INSERT INTO users (name, age) VALUES ("Sue", "24"); 
+INSERT INTO users (name, age) VALUES ("Anna", "24"); 
+INSERT INTO users (name, age) VALUES ("Joe", "24"); 
+INSERT INTO users (name, age) VALUES ("Jenny", "24"); 
+INSERT INTO users (name, age) VALUES ("Brian", "24"); 
+INSERT INTO users (name, age) VALUES ("", "24"); 
+INSERT INTO users (name, age) VALUES ("Mary", "24"); 
+INSERT INTO users (name, age) VALUES ("Mary", "24"); 
+INSERT INTO users (name, age) VALUES ("Mary", "24"); s
