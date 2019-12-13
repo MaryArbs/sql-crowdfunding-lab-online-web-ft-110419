@@ -11,4 +11,5 @@ CREATE TABLE users (
   name TEXT,
   age INTEGER);
 
-CREATE TABLE pledges (amount INTEGER);
+CREATE TABLE pledges (
+  amount INTEGER);
