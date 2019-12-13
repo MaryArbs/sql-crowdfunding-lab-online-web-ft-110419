@@ -1,5 +1,5 @@
-CREATE TABLE projects
-(id INTEGER PRIMARY KEY,
+CREATE TABLE projects (
+  id INTEGER PRIMARY KEY,
   title TEXT,
   category  text,
   funding_goal INTEGER,
